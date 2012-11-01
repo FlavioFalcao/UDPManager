@@ -9,6 +9,7 @@
 #include <stdio.h>
 
 #include "UDPManager.h"
+#include <arinc653/arinc653.h>
 
 using namespace std;
 
